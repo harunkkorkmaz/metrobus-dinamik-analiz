@@ -14,6 +14,7 @@ hazırlanmış bir MATLAB simülasyonudur.
 
 ## Dosyalar
 - `Metrobus Deneysel Calisma` – Tam simülasyon kodu
+- `Metrobus_Deneysel_Calisma_Yakit_ve_Kutle_Hesabi_v2` - Tahmini yakıt ve ağırlık hesabının kodu
 - `grafikler/` – Çıktı grafiklerini içerir
 
 ## ÖNEMLİ NOT!
