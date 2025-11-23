@@ -10,7 +10,7 @@ mevcut_yakit_kg = depo_hacmi_L * yakit_yogunluk; % ~292 kg yakıt
 
 % Araç ve Yolcu
 m_bos_arac = 18000;         % 18 Ton (Körüklü boş ağırlık)
-yolcu_sayisi = 200;         % İlk durakta binen (Full)
+yolcu_sayisi = 160;         % İlk durakta binen (Full)
 ort_yolcu_kg = 75;
 
 % Motor Verileri (Mercedes OM457 benzeri)
@@ -82,4 +82,5 @@ while x < toplam_mesafe && i < tahmini_adim
         yakilan_yakit_kg = (Guc_kW * bsfc * (dt/3600)) / 1000;
         
         mevcut_yakit_kg = mevcut_yakit_kg - yakilan_yakit_kg;
+
         if mevcut_yakit_kg < 0, mevcut_yakit_kg =
