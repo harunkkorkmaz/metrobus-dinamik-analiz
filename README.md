@@ -18,6 +18,6 @@ hazırlanmış bir MATLAB simülasyonudur.
 - `grafikler/` – Çıktı grafiklerini içerir
 
 ## ÖNEMLİ NOT!
-# Bu çalışma tamamen deneysel ve hobi amaçlı olmakla beraber hiç bir gerçekciliği GARANTİ ETMEMEKTEDİR! Lütfen çalışmalarınıza bunu referans olarak eklerken dikkatlı davranınız. Aksi takdirde hiç bir sorumluluk kabul edilmeyecektir! 
+# Bu çalışma tamamen deneysel ve hobi amaçlı olmakla beraber hiç bir gerçekciliği GARANTİ ETMEMEKTEDİR! Lütfen çalışmalarınıza bunu referans olarak eklerken dikkatli davranınız. Aksi takdirde hiç bir sorumluluk kabul edilmeyecektir! 
 
 # Çalışmama ilgi duyup gösterdiğiniz için teşekkürler!
