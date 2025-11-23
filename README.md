@@ -1,7 +1,22 @@
 # metrobus-dinamik-analiz
-İETT Metrobüs filosunda ki Mercedes-Benz markasının Conecto modelinin MATLAB programı üzerinden deneysel ve hobisel analizidir. 
+ 
+# Metrobüs Dinamik Analizi (MATLAB)
 
-ÖNEMLİ NOT! 
-Bu çalışma tamamen deneysel ve hobi amaçlı olmakla beraber hiç bir gerçekciliği GARANTİ ETMEMEKTEDİR! Lütfen çalışmalarınıza bunu referans olarak eklerken dikkatlı davranınız. Aksi takdirde hiç bir sorumluluk kabul edilmeyecektir!
+Bu proje, İstanbul’daki Mercedes-Benz Conecto körüklü otobüslerin
+Beylikdüzü – Söğütlüçeşme hattındaki dinamik yüklerini modellemek için
+hazırlanmış bir MATLAB simülasyonudur.
 
-Çalışmama ilgi duyup gösterdiğiniz için teşekkürler!
+- Yolcu yükü (160 yolcu)
+- Fren / hızlanma fazları
+- Eğim – yol bozukluğu
+- Körükteki boyuna, dikey ve yanal yükler
+- Bileşke körük zorlanması (kN)
+
+## Dosyalar
+- `Metrobus Deneysel Calisma` – Tam simülasyon kodu
+- `grafikler/` – Çıktı grafiklerini içerir
+
+## ÖNEMLİ NOT!
+# Bu çalışma tamamen deneysel ve hobi amaçlı olmakla beraber hiç bir gerçekciliği GARANTİ ETMEMEKTEDİR! Lütfen çalışmalarınıza bunu referans olarak eklerken dikkatlı davranınız. Aksi takdirde hiç bir sorumluluk kabul edilmeyecektir! 
+
+# Çalışmama ilgi duyup gösterdiğiniz için teşekkürler!
